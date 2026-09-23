@@ -1,4 +1,4 @@
-# Credit Card Validation Program - Quick Summary
+# Credit Card Validation Program 
 
 ## 1. OOP Concepts (Refactoring Analysis)
 * **Encapsulation:** Grouping the card number and validation logic inside a `CreditCard` class rather than using standalone functions.
